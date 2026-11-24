@@ -1,0 +1,4 @@
+date,type,category,amount,description
+2026-11-23,income,Income,20000.0,Test Money
+2026-11-23,expense,Food,2000.0,Test food expense
+2026-11-24,expense,Food,150.0,test
